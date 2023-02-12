@@ -3,6 +3,7 @@
 The Category Manager for Chips at Quantium, wants to better understand the types of customers who purchase Chips and their purchasing behaviour within the region.
 The insights from your analysis will feed into the supermarket’s strategic plan for the chip category in the next half year.
 
+
 ## Task 1
 
 Examine transaction data – look for inconsistencies, missing data across the data set, outliers, correctly identified category items, numeric data across all tables. If you determine any anomalies make the necessary changes in the dataset and save it. Having clean data will help when it comes to your analysis. 
@@ -25,3 +26,6 @@ Select control stores – explore the data and define metrics for your control s
 Assessment of the trial – this one should give you some interesting insights into each of the stores, check each trial store individually in comparison with the control store to get a clear view of its overall performance. We want to know if the trial stores were successful or not. 
 
 Collate findings – summarise your findings for each store and provide an recommendation that we can share with Julia outlining the impact on sales during the trial period.
+
+## RESULTS
+The results are located in this [Presentation Report](https://github.com/Wiclif/Retail-Strategy-With-Experimentation-and-Uplift-Testing/blob/main/Presentation%20%20report.pptx)
