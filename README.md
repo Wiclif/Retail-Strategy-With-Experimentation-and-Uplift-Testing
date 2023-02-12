@@ -1,4 +1,4 @@
-# Customer-Segmentation-Analysis
+# Retail Strategy Analytics
 
 The Category Manager for Chips at Quantium, wants to better understand the types of customers who purchase Chips and their purchasing behaviour within the region.
 The insights from your analysis will feed into the supermarket’s strategic plan for the chip category in the next half year.
@@ -12,6 +12,9 @@ Examine customer data – check for similar issues in the customer data, look fo
 Data analysis and customer segments – in your analysis make sure you define the metrics – look at total sales, drivers of sales, where the highest sales are coming from etc. Explore the data, create charts and graphs as well as noting any interesting trends and/or insights you find. These will all form part of our report to Julia. 
 
 Deep dive into customer segments – define your recommendation from your insights, determine which segments we should be targeting, if packet sizes are relative and form an overall conclusion based on your analysis. 
+
+# Experimentation and Uplift testing
+The Category Manager decided to implement the strategy on 3 various stores and wants to know if the location of selection of trial stores is valid for the time being
 
 ## Task 2
 
